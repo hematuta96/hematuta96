@@ -4,7 +4,7 @@
 🌱 Currently learning JavaScript, Python & DSA  
 🚀 Open Source Contributor at GSSoC'26  
 🤖 Interested in AI/ML  
-📫 Reach me at: yourmail@gmail.com  
+📫 Reach me at: hematuta5@gmail.com  
 
 ---
 
