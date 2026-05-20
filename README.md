@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Web Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Open+Source+Contributor;Frontend+Developer;Learning+DSA+%26+AI/ML;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Open+Source+Contributor+GSSoC'26;Frontend+Developer;Learning+DSA+%26+AI/ML;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 ---
@@ -47,9 +47,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/hematuta96/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://instagram.com">
-<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 <a href="mailto:hematuta5@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
