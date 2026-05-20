@@ -34,18 +34,17 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hematuta96&theme=algolia&no-frame=true&margin-w=10" />
-</p>
-
----
 ## 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=hematuta96&theme=radical&no-frame=true&row=1&column=6" />
 </p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Hema's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hematuta96&theme=github-dark)](https://github.com/hematuta96)
 
 ---
 
