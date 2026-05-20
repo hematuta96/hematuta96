@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Hema
 
-<!--
-**hematuta96/hematuta96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate Web Developer  
+🌱 Currently learning JavaScript, Python & DSA  
+🚀 Open Source Contributor at GSSoC'26  
+🤖 Interested in AI/ML  
+📫 Reach me at: yourmail@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git & GitHub
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hematuta96&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=hematuta96&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=hematuta96&theme=radical)
