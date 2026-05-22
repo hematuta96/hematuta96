@@ -17,11 +17,62 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack & Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma" />
+### 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c" />
 </p>
+
+---
+
+### ⚛️ Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+---
+
+### 🔧 Developer Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+### 🤖 AI & Productivity Tools
+
+- ChatGPT
+- Claude
+- Google AI Studio
+- AI Agent Building
+- Antigravity
+
+---
+
+### 🎨 Design & Creative Tools
+
+- Canva
+- CapCut
+- KineMaster
+- InShot
+
+---
+
+### 📡 APIs & Integration
+
+- REST APIs
+- Postman API Testing
+- API Integration
+
+---
+
+### 🧠 Currently Exploring
+
+- React Development
+- AI Tools & Automation
+- Building AI Agents
+- Open Source Contributions
 
 ---
 
