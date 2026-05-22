@@ -19,19 +19,9 @@
 
 ## 🚀 Tech Stack & Tools
 
-### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,react" />
 </p>
-
----
-
-### ⚛️ Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
-
----
 
 ### 🔧 Developer Tools
 <p align="left">
