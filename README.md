@@ -20,61 +20,83 @@
 ## 🚀 Tech Stack & Tools
 
 ### 💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c" />
 </p>
 
 ---
 
 ### ⚛️ Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=react" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ---
 
 ### 🔧 Developer Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-### 🤖 AI & Productivity Tools
+### 🤖 AI Tools & Platforms
+<p align="left">
 
-- ChatGPT
-- Claude
-- Google AI Studio
-- AI Agent Building
-- Antigravity
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Antigravity-6C63FF?style=for-the-badge"/>
+
+</p>
 
 ---
 
 ### 🎨 Design & Creative Tools
+<p align="left">
 
-- Canva
-- CapCut
-- KineMaster
-- InShot
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/KineMaster-ED1C24?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/InShot-FF2D55?style=for-the-badge"/>
+
+</p>
 
 ---
 
 ### 📡 APIs & Integration
+<p align="left">
 
-- REST APIs
-- Postman API Testing
-- API Integration
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Postman_API-F76935?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/API_Integration-4A90E2?style=for-the-badge"/>
+
+</p>
 
 ---
 
 ### 🧠 Currently Exploring
+<p align="left">
 
-- React Development
-- AI Tools & Automation
-- Building AI Agents
-- Open Source Contributions
+<img src="https://img.shields.io/badge/React_Development-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
----
+<img src="https://img.shields.io/badge/AI_Tools_&_Automation-FF6F61?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Building_AI_Agents-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+
+</p>
 
 ## 📊 GitHub Stats
 
