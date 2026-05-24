@@ -57,9 +57,6 @@
 
 <br><br>
 
-<!-- Quote -->
-<h3>🌸 Code • Create • Contribute • Grow 🌸</h3>
-
 </div>
 ## 🚀 Tech Stack & Tools
 
