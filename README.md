@@ -51,7 +51,7 @@
 <br><br>
 
 </div>
-## 🚀 Tech Stack & Tools
+🚀 Tech Stack & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,react" />
