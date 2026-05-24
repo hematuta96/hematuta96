@@ -16,6 +16,51 @@
 - 📫 Reach me at: **hematuta5@gmail.com**
 ---
 
+<div align="center">
+
+# 🏆 My GSSoC Achievements ✨
+
+<i>Open Source Contributor • Builder • Learner 🚀</i>
+
+<br><br>
+
+<!-- Badges Row 1 -->
+<img src="https://gssoc.girlscript.org/badges/milestone/rising_star.png" width="180px"/>
+<img src="https://gssoc.girlscript.org/badges/milestone/bounty_master.png" width="180px"/>
+<img src="https://gssoc.girlscript.org/badges/milestone/first_steps.png" width="180px"/>
+
+<br><br>
+
+<!-- Badges Row 2 -->
+<img src="https://gssoc.girlscript.org/badges/milestone/discord_verified.png" width="180px"/>
+<img src="https://gssoc.girlscript.org/badges/milestone/profile_complete.png" width="180px"/>
+<img src="https://gssoc.girlscript.org/badges/milestone/point_scorer.png" width="180px"/>
+
+<br><br>
+
+<!-- Badges Row 3 -->
+<img src="https://gssoc.girlscript.org/badges/milestone/bounty_hunter.png" width="180px"/>
+<img src="https://gssoc.girlscript.org/badges/milestone/role_contributor.png" width="180px"/>
+<img src="https://gssoc.girlscript.org/badges/milestone/week_one.png" width="180px"/>
+
+<br><br>
+
+<!-- Animated Typing -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=GSSoC+Contributor+💻;Open+Source+Explorer+🚀;Building+Projects+✨;Learning+Something+New+Everyday+🌸" />
+
+<br><br>
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=20" width="47%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&border_radius=20" width="47%"/>
+
+<br><br>
+
+<!-- Quote -->
+<h3>🌸 Code • Create • Contribute • Grow 🌸</h3>
+
+</div>
 ## 🚀 Tech Stack & Tools
 
 <p align="left">
