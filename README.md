@@ -50,13 +50,6 @@
 
 <br><br>
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=20" width="47%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&border_radius=20" width="47%"/>
-
-<br><br>
-
 </div>
 ## 🚀 Tech Stack & Tools
 
